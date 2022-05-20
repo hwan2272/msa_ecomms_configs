@@ -1,3 +1,6 @@
+gateway:
+  ip: 172.18.0.5
+
 jwt:
   expirationTime: 86400000 #24시간
   secretKey: hwan2272 #default
